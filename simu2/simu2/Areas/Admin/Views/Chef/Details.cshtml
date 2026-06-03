@@ -1,0 +1,55 @@
+@model simu2.Models.Chef
+@{
+    ViewData["Title"] = "Chef Details";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="content-header">
+    <h1>Chef Details</h1>
+</div>
+
+<div class="row">
+    <div class="span8">
+        <div class="box">
+            <div class="box-header">
+                <h3>@Model.Name</h3>
+            </div>
+            <div class="box-content">
+                <dl class="dl-horizontal">
+                    <dt>ID</dt>
+                    <dd>@Model.Id</dd>
+
+                    <dt>Name</dt>
+                    <dd>@Model.Name</dd>
+
+                    <dt>Job Title</dt>
+                    <dd>@Model.Job</dd>
+
+                    <dt>Image</dt>
+                    <dd>
+                        @if (!string.IsNullOrEmpty(Model.Image))
+                        {
+                            <img src="~/assets/images/@Model.Image" alt="@Model.Name" style="max-height: 250px; max-width: 250px; border-radius: 5px;" />
+                        }
+                        else
+                        {
+                            <span class="text-muted">No image available</span>
+                        }
+                    </dd>
+                </dl>
+
+                <div class="form-actions">
+                    <a asp-area="Admin" asp-controller="Chef" asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-primary">
+                        <i class="icon icon-pencil"></i> Edit
+                    </a>
+                    <a asp-area="Admin" asp-controller="Chef" asp-action="Delete" asp-route-id="@Model.Id" class="btn btn-danger">
+                        <i class="icon icon-trash"></i> Delete
+                    </a>
+                    <a asp-area="Admin" asp-controller="Chef" asp-action="Index" class="btn btn-secondary">
+                        <i class="icon icon-arrow-left"></i> Back to List
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

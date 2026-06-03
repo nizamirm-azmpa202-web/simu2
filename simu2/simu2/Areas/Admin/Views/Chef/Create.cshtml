@@ -1,0 +1,57 @@
+@model simu2.Models.Chef
+@{
+    ViewData["Title"] = "Create Chef";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="content-header">
+    <h1>Create New Chef</h1>
+</div>
+
+<div class="row">
+    <div class="span6">
+        <form asp-area="Admin" asp-controller="Chef" asp-action="Create" method="post" class="form-horizontal">
+            <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="Name" class="control-label span2">Name</label>
+                <div class="span4">
+                    <input asp-for="Name" class="form-control" placeholder="Chef name" />
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Job" class="control-label span2">Job Title</label>
+                <div class="span4">
+                    <input asp-for="Job" class="form-control" placeholder="Job title" />
+                    <span asp-validation-for="Job" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Image" class="control-label span2">Image File</label>
+                <div class="span4">
+                    <input asp-for="Image" class="form-control" placeholder="Image filename (e.g., chef1.jpg)" />
+                    <small class="form-text text-muted">Enter filename from ~/assets/images/ folder</small>
+                    <span asp-validation-for="Image" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="span4 offset2">
+                    <button type="submit" class="btn btn-success">
+                        <i class="icon icon-save"></i> Save
+                    </button>
+                    <a asp-area="Admin" asp-controller="Chef" asp-action="Index" class="btn btn-secondary">
+                        <i class="icon icon-arrow-left"></i> Cancel
+                    </a>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

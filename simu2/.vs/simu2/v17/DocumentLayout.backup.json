@@ -3,84 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Birinci Novbe\\Desktop\\simu2\\simu2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F1000E75-C79B-4C77-B604-8FDA50E055FD}|simu2\\simu2.csproj|c:\\users\\birinci novbe\\desktop\\simu2\\simu2\\simu2\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F1000E75-C79B-4C77-B604-8FDA50E055FD}|simu2\\simu2.csproj|solutionrelative:simu2\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F1000E75-C79B-4C77-B604-8FDA50E055FD}|simu2\\simu2.csproj|c:\\users\\birinci novbe\\desktop\\simu2\\simu2\\simu2\\areas\\admin\\views\\chef\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1000E75-C79B-4C77-B604-8FDA50E055FD}|simu2\\simu2.csproj|solutionrelative:simu2\\areas\\admin\\views\\chef\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1000E75-C79B-4C77-B604-8FDA50E055FD}|simu2\\simu2.csproj|c:\\users\\birinci novbe\\desktop\\simu2\\simu2\\simu2\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F1000E75-C79B-4C77-B604-8FDA50E055FD}|simu2\\simu2.csproj|solutionrelative:simu2\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F1000E75-C79B-4C77-B604-8FDA50E055FD}|simu2\\simu2.csproj|c:\\users\\birinci novbe\\desktop\\simu2\\simu2\\simu2\\areas\\admin\\views\\chef\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1000E75-C79B-4C77-B604-8FDA50E055FD}|simu2\\simu2.csproj|solutionrelative:simu2\\areas\\admin\\views\\chef\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1000E75-C79B-4C77-B604-8FDA50E055FD}|simu2\\simu2.csproj|c:\\users\\birinci novbe\\desktop\\simu2\\simu2\\simu2\\areas\\admin\\views\\chef\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1000E75-C79B-4C77-B604-8FDA50E055FD}|simu2\\simu2.csproj|solutionrelative:simu2\\areas\\admin\\views\\chef\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1000E75-C79B-4C77-B604-8FDA50E055FD}|simu2\\simu2.csproj|c:\\users\\birinci novbe\\desktop\\simu2\\simu2\\simu2\\areas\\admin\\views\\chef\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1000E75-C79B-4C77-B604-8FDA50E055FD}|simu2\\simu2.csproj|solutionrelative:simu2\\areas\\admin\\views\\chef\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F1000E75-C79B-4C77-B604-8FDA50E055FD}|simu2\\simu2.csproj|c:\\users\\birinci novbe\\desktop\\simu2\\simu2\\simu2\\areas\\admin\\views\\chef\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F1000E75-C79B-4C77-B604-8FDA50E055FD}|simu2\\simu2.csproj|solutionrelative:simu2\\areas\\admin\\views\\chef\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1000E75-C79B-4C77-B604-8FDA50E055FD}|simu2\\simu2.csproj|c:\\users\\birinci novbe\\desktop\\simu2\\simu2\\simu2\\areas\\admin\\controllers\\chefcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1000E75-C79B-4C77-B604-8FDA50E055FD}|simu2\\simu2.csproj|solutionrelative:simu2\\areas\\admin\\controllers\\chefcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1000E75-C79B-4C77-B604-8FDA50E055FD}|simu2\\simu2.csproj|c:\\users\\birinci novbe\\desktop\\simu2\\simu2\\simu2\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1000E75-C79B-4C77-B604-8FDA50E055FD}|simu2\\simu2.csproj|solutionrelative:simu2\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1000E75-C79B-4C77-B604-8FDA50E055FD}|simu2\\simu2.csproj|c:\\users\\birinci novbe\\desktop\\simu2\\simu2\\simu2\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F1000E75-C79B-4C77-B604-8FDA50E055FD}|simu2\\simu2.csproj|solutionrelative:simu2\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1000E75-C79B-4C77-B604-8FDA50E055FD}|simu2\\simu2.csproj|c:\\users\\birinci novbe\\desktop\\simu2\\simu2\\simu2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1000E75-C79B-4C77-B604-8FDA50E055FD}|simu2\\simu2.csproj|solutionrelative:simu2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1000E75-C79B-4C77-B604-8FDA50E055FD}|simu2\\simu2.csproj|c:\\users\\birinci novbe\\desktop\\simu2\\simu2\\simu2\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F1000E75-C79B-4C77-B604-8FDA50E055FD}|simu2\\simu2.csproj|solutionrelative:simu2\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1000E75-C79B-4C77-B604-8FDA50E055FD}|simu2\\simu2.csproj|c:\\users\\birinci novbe\\desktop\\simu2\\simu2\\simu2\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F1000E75-C79B-4C77-B604-8FDA50E055FD}|simu2\\simu2.csproj|solutionrelative:simu2\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1000E75-C79B-4C77-B604-8FDA50E055FD}|simu2\\simu2.csproj|c:\\users\\birinci novbe\\desktop\\simu2\\simu2\\simu2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F1000E75-C79B-4C77-B604-8FDA50E055FD}|simu2\\simu2.csproj|solutionrelative:simu2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1000E75-C79B-4C77-B604-8FDA50E055FD}|simu2\\simu2.csproj|c:\\users\\birinci novbe\\desktop\\simu2\\simu2\\simu2\\simu2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F1000E75-C79B-4C77-B604-8FDA50E055FD}|simu2\\simu2.csproj|solutionrelative:simu2\\simu2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1000E75-C79B-4C77-B604-8FDA50E055FD}|simu2\\simu2.csproj|c:\\users\\birinci novbe\\desktop\\simu2\\simu2\\simu2\\models\\chef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1000E75-C79B-4C77-B604-8FDA50E055FD}|simu2\\simu2.csproj|solutionrelative:simu2\\models\\chef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1000E75-C79B-4C77-B604-8FDA50E055FD}|simu2\\simu2.csproj|c:\\users\\birinci novbe\\desktop\\simu2\\simu2\\simu2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F1000E75-C79B-4C77-B604-8FDA50E055FD}|simu2\\simu2.csproj|solutionrelative:simu2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1000E75-C79B-4C77-B604-8FDA50E055FD}|simu2\\simu2.csproj|c:\\users\\birinci novbe\\desktop\\simu2\\simu2\\simu2\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{F1000E75-C79B-4C77-B604-8FDA50E055FD}|simu2\\simu2.csproj|solutionrelative:simu2\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1000E75-C79B-4C77-B604-8FDA50E055FD}|simu2\\simu2.csproj|c:\\users\\birinci novbe\\desktop\\simu2\\simu2\\simu2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F1000E75-C79B-4C77-B604-8FDA50E055FD}|simu2\\simu2.csproj|solutionrelative:simu2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1000E75-C79B-4C77-B604-8FDA50E055FD}|simu2\\simu2.csproj|c:\\users\\birinci novbe\\desktop\\simu2\\simu2\\simu2\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1000E75-C79B-4C77-B604-8FDA50E055FD}|simu2\\simu2.csproj|solutionrelative:simu2\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1000E75-C79B-4C77-B604-8FDA50E055FD}|simu2\\simu2.csproj|c:\\users\\birinci novbe\\desktop\\simu2\\simu2\\simu2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{F1000E75-C79B-4C77-B604-8FDA50E055FD}|simu2\\simu2.csproj|solutionrelative:simu2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1000E75-C79B-4C77-B604-8FDA50E055FD}|simu2\\simu2.csproj|c:\\users\\birinci novbe\\desktop\\simu2\\simu2\\simu2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1000E75-C79B-4C77-B604-8FDA50E055FD}|simu2\\simu2.csproj|solutionrelative:simu2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1000E75-C79B-4C77-B604-8FDA50E055FD}|simu2\\simu2.csproj|c:\\users\\birinci novbe\\desktop\\simu2\\simu2\\simu2\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1000E75-C79B-4C77-B604-8FDA50E055FD}|simu2\\simu2.csproj|solutionrelative:simu2\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1000E75-C79B-4C77-B604-8FDA50E055FD}|simu2\\simu2.csproj|c:\\users\\birinci novbe\\desktop\\simu2\\simu2\\simu2\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1000E75-C79B-4C77-B604-8FDA50E055FD}|simu2\\simu2.csproj|solutionrelative:simu2\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,252 +30,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Birinci Novbe\\Desktop\\simu2\\simu2\\simu2\\Areas\\Admin\\Views\\Chef\\Index.cshtml",
-              "RelativeDocumentMoniker": "simu2\\Areas\\Admin\\Views\\Chef\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Birinci Novbe\\Desktop\\simu2\\simu2\\simu2\\Areas\\Admin\\Views\\Chef\\Index.cshtml",
-              "RelativeToolTip": "simu2\\Areas\\Admin\\Views\\Chef\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-03T12:09:11.216Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ChefController.cs",
-              "DocumentMoniker": "C:\\Users\\Birinci Novbe\\Desktop\\simu2\\simu2\\simu2\\Areas\\Admin\\Controllers\\ChefController.cs",
-              "RelativeDocumentMoniker": "simu2\\Areas\\Admin\\Controllers\\ChefController.cs",
-              "ToolTip": "C:\\Users\\Birinci Novbe\\Desktop\\simu2\\simu2\\simu2\\Areas\\Admin\\Controllers\\ChefController.cs",
-              "RelativeToolTip": "simu2\\Areas\\Admin\\Controllers\\ChefController.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAwwEIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-03T12:07:50.111Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_AdminLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Birinci Novbe\\Desktop\\simu2\\simu2\\simu2\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeDocumentMoniker": "simu2\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "ToolTip": "C:\\Users\\Birinci Novbe\\Desktop\\simu2\\simu2\\simu2\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeToolTip": "simu2\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "ViewState": "AgIAADAAAAAAAAAAAAAUwEsAAAAPAAAAAAAAAA==",
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Birinci Novbe\\Desktop\\simu2\\simu2\\simu2\\Areas\\Admin\\Views\\Chef\\Details.cshtml",
+              "RelativeDocumentMoniker": "simu2\\Areas\\Admin\\Views\\Chef\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Birinci Novbe\\Desktop\\simu2\\simu2\\simu2\\Areas\\Admin\\Views\\Chef\\Details.cshtml*",
+              "RelativeToolTip": "simu2\\Areas\\Admin\\Views\\Chef\\Details.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-03T11:47:37.091Z",
+              "WhenOpened": "2026-06-03T13:07:39.904Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Birinci Novbe\\Desktop\\simu2\\simu2\\simu2\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeDocumentMoniker": "simu2\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Birinci Novbe\\Desktop\\simu2\\simu2\\simu2\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeToolTip": "simu2\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Birinci Novbe\\Desktop\\simu2\\simu2\\simu2\\Areas\\Admin\\Views\\Chef\\Delete.cshtml",
+              "RelativeDocumentMoniker": "simu2\\Areas\\Admin\\Views\\Chef\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Birinci Novbe\\Desktop\\simu2\\simu2\\simu2\\Areas\\Admin\\Views\\Chef\\Delete.cshtml*",
+              "RelativeToolTip": "simu2\\Areas\\Admin\\Views\\Chef\\Delete.cshtml*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAhwDEAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-03T11:22:04.237Z",
+              "WhenOpened": "2026-06-03T13:04:52.252Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\Birinci Novbe\\Desktop\\simu2\\simu2\\simu2\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "simu2\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\Birinci Novbe\\Desktop\\simu2\\simu2\\simu2\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "simu2\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-03T11:20:30.893Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Birinci Novbe\\Desktop\\simu2\\simu2\\simu2\\Areas\\Admin\\Views\\Chef\\Index.cshtml",
+              "RelativeDocumentMoniker": "simu2\\Areas\\Admin\\Views\\Chef\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Birinci Novbe\\Desktop\\simu2\\simu2\\simu2\\Areas\\Admin\\Views\\Chef\\Index.cshtml*",
+              "RelativeToolTip": "simu2\\Areas\\Admin\\Views\\Chef\\Index.cshtml*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-03T13:04:27.684Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Birinci Novbe\\Desktop\\simu2\\simu2\\simu2\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "simu2\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Birinci Novbe\\Desktop\\simu2\\simu2\\simu2\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "simu2\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Birinci Novbe\\Desktop\\simu2\\simu2\\simu2\\Areas\\Admin\\Views\\Chef\\Create.cshtml",
+              "RelativeDocumentMoniker": "simu2\\Areas\\Admin\\Views\\Chef\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Birinci Novbe\\Desktop\\simu2\\simu2\\simu2\\Areas\\Admin\\Views\\Chef\\Create.cshtml*",
+              "RelativeToolTip": "simu2\\Areas\\Admin\\Views\\Chef\\Create.cshtml*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-03T11:19:49.367Z"
+              "WhenOpened": "2026-06-03T13:04:22.676Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Birinci Novbe\\Desktop\\simu2\\simu2\\simu2\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "simu2\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Birinci Novbe\\Desktop\\simu2\\simu2\\simu2\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "simu2\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Birinci Novbe\\Desktop\\simu2\\simu2\\simu2\\Areas\\Admin\\Views\\Chef\\Edit.cshtml",
+              "RelativeDocumentMoniker": "simu2\\Areas\\Admin\\Views\\Chef\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Birinci Novbe\\Desktop\\simu2\\simu2\\simu2\\Areas\\Admin\\Views\\Chef\\Edit.cshtml*",
+              "RelativeToolTip": "simu2\\Areas\\Admin\\Views\\Chef\\Edit.cshtml*",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAmwCEAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-03T11:19:47.861Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Birinci Novbe\\Desktop\\simu2\\simu2\\simu2\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "simu2\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Birinci Novbe\\Desktop\\simu2\\simu2\\simu2\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "simu2\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-03T11:19:25.501Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "simu2.csproj",
-              "DocumentMoniker": "C:\\Users\\Birinci Novbe\\Desktop\\simu2\\simu2\\simu2\\simu2.csproj",
-              "RelativeDocumentMoniker": "simu2\\simu2.csproj",
-              "ToolTip": "C:\\Users\\Birinci Novbe\\Desktop\\simu2\\simu2\\simu2\\simu2.csproj",
-              "RelativeToolTip": "simu2\\simu2.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-06-03T11:18:11.323Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\Birinci Novbe\\Desktop\\simu2\\simu2\\simu2\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "simu2\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\Birinci Novbe\\Desktop\\simu2\\simu2\\simu2\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "simu2\\ScaffoldingReadMe.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-06-03T11:14:18.274Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\Birinci Novbe\\Desktop\\simu2\\simu2\\simu2\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "simu2\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\Birinci Novbe\\Desktop\\simu2\\simu2\\simu2\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "simu2\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-06-03T11:07:05.042Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Birinci Novbe\\Desktop\\simu2\\simu2\\simu2\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "simu2\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Birinci Novbe\\Desktop\\simu2\\simu2\\simu2\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "simu2\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAD0AAAAAAAAAAADwv2AAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-03T10:35:45.02Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Birinci Novbe\\Desktop\\simu2\\simu2\\simu2\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "simu2\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Birinci Novbe\\Desktop\\simu2\\simu2\\simu2\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "simu2\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAwwFMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-03T10:35:30.179Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Chef.cs",
-              "DocumentMoniker": "C:\\Users\\Birinci Novbe\\Desktop\\simu2\\simu2\\simu2\\Models\\Chef.cs",
-              "RelativeDocumentMoniker": "simu2\\Models\\Chef.cs",
-              "ToolTip": "C:\\Users\\Birinci Novbe\\Desktop\\simu2\\simu2\\simu2\\Models\\Chef.cs",
-              "RelativeToolTip": "simu2\\Models\\Chef.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-03T10:29:38.031Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\Birinci Novbe\\Desktop\\simu2\\simu2\\simu2\\Models\\AppUser.cs",
-              "RelativeDocumentMoniker": "simu2\\Models\\AppUser.cs",
-              "ToolTip": "C:\\Users\\Birinci Novbe\\Desktop\\simu2\\simu2\\simu2\\Models\\AppUser.cs",
-              "RelativeToolTip": "simu2\\Models\\AppUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-03T10:15:55.386Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Birinci Novbe\\Desktop\\simu2\\simu2\\simu2\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "simu2\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Birinci Novbe\\Desktop\\simu2\\simu2\\simu2\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "simu2\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-03T10:14:10.714Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Birinci Novbe\\Desktop\\simu2\\simu2\\simu2\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "simu2\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Birinci Novbe\\Desktop\\simu2\\simu2\\simu2\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "simu2\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-03T10:13:16.61Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Birinci Novbe\\Desktop\\simu2\\simu2\\simu2\\Models\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "simu2\\Models\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\Birinci Novbe\\Desktop\\simu2\\simu2\\simu2\\Models\\BaseEntity.cs",
-              "RelativeToolTip": "simu2\\Models\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-03T10:13:06.242Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Birinci Novbe\\Desktop\\simu2\\simu2\\simu2\\appsettings.json",
-              "RelativeDocumentMoniker": "simu2\\appsettings.json",
-              "ToolTip": "C:\\Users\\Birinci Novbe\\Desktop\\simu2\\simu2\\simu2\\appsettings.json",
-              "RelativeToolTip": "simu2\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-03T10:06:53.39Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Birinci Novbe\\Desktop\\simu2\\simu2\\simu2\\Program.cs",
-              "RelativeDocumentMoniker": "simu2\\Program.cs",
-              "ToolTip": "C:\\Users\\Birinci Novbe\\Desktop\\simu2\\simu2\\simu2\\Program.cs",
-              "RelativeToolTip": "simu2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-03T10:06:19.455Z"
+              "WhenOpened": "2026-06-03T12:59:18.314Z",
+              "EditorCaption": ""
             }
           ]
         }

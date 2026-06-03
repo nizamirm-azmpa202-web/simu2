@@ -258,3 +258,4 @@ C:\Users\Birinci Novbe\Desktop\simu2\simu2\simu2\bin\Debug\net8.0\tr\Microsoft.C
 C:\Users\Birinci Novbe\Desktop\simu2\simu2\simu2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\Birinci Novbe\Desktop\simu2\simu2\simu2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\Birinci Novbe\Desktop\simu2\simu2\simu2\obj\Debug\net8.0\scopedcss\Areas\Admin\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+C:\Users\Birinci Novbe\Desktop\simu2\simu2\simu2\obj\Debug\net8.0\simu2.sourcelink.json

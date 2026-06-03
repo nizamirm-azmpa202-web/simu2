@@ -1,0 +1,50 @@
+@model simu2.Models.Chef
+@{
+    ViewData["Title"] = "Delete Chef";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="content-header">
+    <h1>Delete Chef</h1>
+</div>
+
+<div class="alert alert-danger">
+    <strong>Warning!</strong> Are you sure you want to delete this chef?
+</div>
+
+<div class="row">
+    <div class="span6">
+        <dl class="dl-horizontal">
+            <dt>ID</dt>
+            <dd>@Model.Id</dd>
+
+            <dt>Name</dt>
+            <dd>@Model.Name</dd>
+
+            <dt>Job Title</dt>
+            <dd>@Model.Job</dd>
+
+            <dt>Image</dt>
+            <dd>
+                @if (!string.IsNullOrEmpty(Model.Image))
+                {
+                    <img src="~/assets/images/@Model.Image" alt="@Model.Name" style="max-height: 100px; max-width: 100px;" />
+                }
+                else
+                {
+                    <span class="text-muted">No image</span>
+                }
+            </dd>
+        </dl>
+
+        <form asp-area="Admin" asp-controller="Chef" asp-action="Delete" method="post" style="display:inline;">
+            <input type="hidden" asp-for="Id" />
+            <button type="submit" class="btn btn-danger">
+                <i class="icon icon-trash"></i> Delete Permanently
+            </button>
+            <a asp-area="Admin" asp-controller="Chef" asp-action="Index" class="btn btn-secondary">
+                <i class="icon icon-arrow-left"></i> Cancel
+            </a>
+        </form>
+    </div>
+</div>
