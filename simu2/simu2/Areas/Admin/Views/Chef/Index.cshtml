@@ -1,0 +1,35 @@
+﻿@model List<Chef>
+
+<h2>Chef Table</h2>
+
+<table class="table">
+
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Job</th>
+            <th>Image</th>
+        </tr>
+    </thead>
+
+    <tbody>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+
+                <td>@item.Name</td>
+
+                <td>@item.Job</td>
+
+                <td>
+                    <img src="~/assets/images/@item.Image"
+                         width="100" />
+                </td>
+
+            </tr>
+        }
+
+    </tbody>
+
+</table>

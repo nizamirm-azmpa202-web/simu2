@@ -1,0 +1,82 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Panel</title>
+
+    <link rel="stylesheet" href="~/admin/assets/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/admin/assets/css/bootstrap-responsive.min.css" />
+    <link rel="stylesheet" href="~/admin/assets/css/fullcalendar.css" />
+    <link rel="stylesheet" href="~/admin/assets/css/matrix-style.css" />
+    <link rel="stylesheet" href="~/admin/assets/css/matrix-media.css" />
+    <link rel="stylesheet" href="~/admin/assets/font-awesome/css/font-awesome.css" />
+</head>
+
+<body>
+
+    <!-- HEADER -->
+    <div id="header">
+        <h1>
+            <a asp-area="Admin"
+               asp-controller="Dashboard"
+               asp-action="Index">
+
+                Matrix Admin
+
+            </a>
+        </h1>
+    </div>
+
+    <!-- SIDEBAR -->
+    <div id="sidebar">
+
+        <ul>
+
+            <li>
+                <a asp-area="Admin"
+                   asp-controller="Dashboard"
+                   asp-action="Index">
+
+                    <i class="icon icon-home"></i>
+                    <span>Dashboard</span>
+
+                </a>
+            </li>
+
+            <li>
+                <a asp-area="Admin"
+                   asp-controller="Chef"
+                   asp-action="Index">
+
+                    <i class="icon icon-user"></i>
+                    <span>Chefs</span>
+
+                </a>
+            </li>
+
+        </ul>
+
+    </div>
+
+    <!-- CONTENT -->
+    <div id="content">
+
+        @RenderBody()
+
+    </div>
+
+    <!-- FOOTER -->
+    <div class="row-fluid">
+        <div id="footer" class="span12">
+            2026 &copy; Admin Panel
+        </div>
+    </div>
+
+    <!-- JS -->
+    <script src="~/admin/assets/js/jquery.min.js"></script>
+    <script src="~/admin/assets/js/bootstrap.min.js"></script>
+    <script src="~/admin/assets/js/matrix.js"></script>
+
+</body>
+</html>

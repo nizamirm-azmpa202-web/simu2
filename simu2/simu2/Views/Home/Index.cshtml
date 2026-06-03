@@ -1,0 +1,120 @@
+﻿@model List<Chef>
+
+<!-- HOME -->
+
+<section id="home" class="slider" data-stellar-background-ratio="0.5">
+    <div class="row">
+
+        <div class="owl-carousel owl-theme">
+
+            <div class="item item-first">
+                <div class="caption">
+                    <div class="container">
+                        <div class="col-md-8 col-sm-12">
+                            <h3>Eatery Cafe & Restaurant</h3>
+                            <h1>Our mission is to provide an unforgettable experience</h1>
+
+                            <a href="#team"
+                               class="section-btn btn btn-default smoothScroll">
+                                Meet our chef
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="item item-second">
+                <div class="caption">
+                    <div class="container">
+                        <div class="col-md-8 col-sm-12">
+                            <h3>Your Perfect Breakfast</h3>
+                            <h1>The best dining quality can be here too!</h1>
+
+                            <a href="#menu"
+                               class="section-btn btn btn-default smoothScroll">
+                                Discover menu
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+    
+
+</section>
+
+<!-- ABOUT -->
+
+<section id="about" data-stellar-background-ratio="0.5">
+    <div class="container">
+        <div class="row">
+
+
+            <div class="col-md-6 col-sm-12">
+                <div class="about-info">
+
+                    <div class="section-title wow fadeInUp">
+                        <h4>Read our story</h4>
+                        <h2>We've been Making The Delicious Foods Since 1999</h2>
+                    </div>
+
+                    <p>
+                        Fusce hendrerit malesuada lacinia.
+                    </p>
+
+                </div>
+            </div>
+
+            <div class="col-md-6 col-sm-12">
+                <img src="~/assets/images/about-image.jpg"
+                     class="img-responsive"
+                     alt="">
+            </div>
+
+        </div>
+    </div>
+
+
+</section>
+
+<!-- TEAM -->
+
+<section id="team" data-stellar-background-ratio="0.5">
+    <div class="container">
+        <div class="row">
+
+            <div class="col-md-12 col-sm-12">
+                <div class="section-title wow fadeInUp">
+                    <h2>Meet our chefs</h2>
+                    <h4>They are nice & friendly</h4>
+                </div>
+            </div>
+
+            @foreach (var chef in Model)
+            {
+                <div class="col-md-4 col-sm-4">
+
+                    <div class="team-thumb wow fadeInUp">
+
+                        <img src="~/assets/images/@chef.Image"
+                             class="img-responsive"
+                             alt="@chef.Name">
+
+                    </div>
+
+                    <div class="team-info">
+                        <h3>@chef.Name</h3>
+                        <p>@chef.Job</p>
+                    </div>
+
+                </div>
+            }
+
+        </div>
+    </div>
+   
+
+</section>
